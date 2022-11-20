@@ -54,6 +54,7 @@ public class steps {
 
 	@Then("close browser")
 	public void close_browser() {
+	//close the browser
 	driver.close();
 	}
 
